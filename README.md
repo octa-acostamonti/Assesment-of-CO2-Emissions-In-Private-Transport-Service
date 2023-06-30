@@ -26,26 +26,26 @@ The current project seeks to generate conclusions on the economic performance an
 	 	 	 	
 				
 ## Introduction
-In recent decades, one of the most emphasized focuses has been on the environmental impact of our technologies and how to make a positive impact on the ecosystem.(Luiz Adriana Pita-Morales, 2016) Conventional means of transport, such as land, air and sea vehicles that release greenhouse gasses through their combustion, are one of the main factors that have a negative impact on the environment. (Loreto Inés Roas Valera, 2011) The topic that brings us to the subject is to generate an analysis of the impact caused by land vehicle transport services on the environment and how to counteract this impact. Specifically, it looks at the trend patterns with respect to the environment in New York City over the last decade.
-An electric vehicle (EV) is defined as a vehicle that uses one or more electric motors for propulsion and uses energy stored in its rechargeable battery which can be charged by home connection or at public charging points. (Weldon, et al., 2018).
-There are 2 main categories, hybrid cars (HEVs) and all-electric cars (AEVs). The latter are equipped with engines that are charged by electric sources, subclassified into battery-powered vehicles (BEVs) that need external charging and fuel cell vehicles (FCEVs) that do not. There is a specific type of HEVs called plug-in hybrids (PHEVs) which are hybrid cars that have the option of recharging their battery (Das, et al., 2020).
-One of the main barriers to EVs representing a considerable portion of the market is the perception of increased costs compared to internal combustion vehicles (ICEVs). (Weldon, et al., 2018).
-A study of the cost of living of EVs compared to hybrid and traditional vehicles conducted by Roth in 2015 found that EVs are often the least expensive to own, being variable according to grant subsidies, length of ownership, and fueling costs in each city (Weldon, et al., 2018).
-In a study of the perceptions of over 2000 individuals conducted in the 21 largest US cities, 95% of respondents mentioned that they are not aware of incentives for EV purchase, such as direct subsidies, free parking, carbon dioxyde emission tax and increased charging infrastructure, which are budget-limited public strategies (United States Congress, 2009, Weldon, et al., 2018).
-Total cost of ownership (TCO) is a widely used method for comparing the economic position of vehicles to enable consumer, manufacturing and policy-making decisions (Liu et al., 2021).
-Wu et al. presented a probabilistic method incorporating the natural stochasticity of conventional TCO parameters applied to vehicles and further segmented into consumer-oriented TCO and society-oriented TCO, which incorporated the effect of greenhouse gasses ( Liu et al., 2021).
-Conventional TCO behavior between EVs and ICEVs indicates that EVs are generally more expensive in the absence of federal policies promoting their use (Liu et al., 2021).
-A study conducted by Liu et al. in 2021 determines the time in years needed to recoup the investment of buying an EV versus an ICEV, ranking them by taking into account curb weight, miles per gallon, power, price and component costs of gearing, exhaust, and other correlates of price and available data. (Liu et al., 2021).
-From the analysis and development of formulas, it was determined that the time needed to equalize costs between ICEVs and BEVs is 6.8 and 7.7 years for those with an empty weight of 1 and 2.5 t, and 11.2 and 14.1 years if the installation of the home charging system is taken into account for the same weights (Liu et al., 2021). (Liu et al., 2021)
-Recent studies have described that more than 3 million EVs have been reached in 2017, while by 2007 there were hundreds of them where countries such as Norway, Iceland, Sweden and Denmark lead the list, leaving the USA in 8th place by 2018. (Das, et al., 2020)
+In recent decades, one of the most emphasized focuses has been on the environmental impact of our technologies and how to make a positive impact on the ecosystem.(Luiz Adriana Pita-Morales, 2016) Conventional means of transport, such as land, air and sea vehicles that release greenhouse gasses through their combustion, are one of the main factors that have a negative impact on the environment. (Loreto Inés Roas Valera, 2011) The topic that brings us to the subject is to generate an analysis of the impact caused by land vehicle transport services on the environment and how to counteract this impact. Specifically, it looks at the trend patterns with respect to the environment in New York City over the last decade.<br>
+An electric vehicle (EV) is defined as a vehicle that uses one or more electric motors for propulsion and uses energy stored in its rechargeable battery which can be charged by home connection or at public charging points. (Weldon, et al., 2018).<br>
+There are 2 main categories, hybrid cars (HEVs) and all-electric cars (AEVs). The latter are equipped with engines that are charged by electric sources, subclassified into battery-powered vehicles (BEVs) that need external charging and fuel cell vehicles (FCEVs) that do not. There is a specific type of HEVs called plug-in hybrids (PHEVs) which are hybrid cars that have the option of recharging their battery (Das, et al., 2020).<br>
+One of the main barriers to EVs representing a considerable portion of the market is the perception of increased costs compared to internal combustion vehicles (ICEVs). (Weldon, et al., 2018).<br>
+A study of the cost of living of EVs compared to hybrid and traditional vehicles conducted by Roth in 2015 found that EVs are often the least expensive to own, being variable according to grant subsidies, length of ownership, and fueling costs in each city (Weldon, et al., 2018).<br>
+In a study of the perceptions of over 2000 individuals conducted in the 21 largest US cities, 95% of respondents mentioned that they are not aware of incentives for EV purchase, such as direct subsidies, free parking, carbon dioxyde emission tax and increased charging infrastructure, which are budget-limited public strategies (United States Congress, 2009, Weldon, et al., 2018).<br>
+Total cost of ownership (TCO) is a widely used method for comparing the economic position of vehicles to enable consumer, manufacturing and policy-making decisions (Liu et al., 2021).<br>
+Wu et al. presented a probabilistic method incorporating the natural stochasticity of conventional TCO parameters applied to vehicles and further segmented into consumer-oriented TCO and society-oriented TCO, which incorporated the effect of greenhouse gasses ( Liu et al., 2021).<br>
+Conventional TCO behavior between EVs and ICEVs indicates that EVs are generally more expensive in the absence of federal policies promoting their use (Liu et al., 2021).<br>
+A study conducted by Liu et al. in 2021 determines the time in years needed to recoup the investment of buying an EV versus an ICEV, ranking them by taking into account curb weight, miles per gallon, power, price and component costs of gearing, exhaust, and other correlates of price and available data. (Liu et al., 2021).<br>
+From the analysis and development of formulas, it was determined that the time needed to equalize costs between ICEVs and BEVs is 6.8 and 7.7 years for those with an empty weight of 1 and 2.5 t, and 11.2 and 14.1 years if the installation of the home charging system is taken into account for the same weights (Liu et al., 2021).<br>
+Recent studies have described that more than 3 million EVs have been reached in 2017, while by 2007 there were hundreds of them where countries such as Norway, Iceland, Sweden and Denmark lead the list, leaving the USA in 8th place by 2018. (Das, et al., 2020).<br>
 It is estimated that by 2035, 100 million EVs will be circulating worldwide according to Energy Outlook while the International Energy Agency (IEA) stated that the target is 548 million by 2040. (Das, et al., 2020).
 
 ## Outreach
 #### Temporary scope:
-The study will start by examining the taxi industry in New York, using available databases and data from 2016.
+The study will start by examining the taxi industry in New York, using available databases and data from 2016.<br>
 The period considered for data collection and analysis spans from the entry into force of the Paris agreement in November 2016 to the current date (Rogelio Fernández-Reyes, 2016). This will capture changes and developments in the adoption of electric cars in the transport industry. It will examine the evolution of the technology and the economic and environmental impacts over time. This broad time range will support the feasibility analysis of investment in electric cars in the transport industry.
 #### Geographical scope and applicability in other cities:
-The study will begin by examining the transport industry in New York and will consider similar extrapolation of the results obtained to Mexico City and other cities.
+The study will begin by examining the transport industry in New York and will consider similar extrapolation of the results obtained to Mexico City and other cities.<br>
 The inclusion of Mexico City in the project is based on its relevance as one of the largest and most populated cities in Latin America. The implementation of electric vehicles in the transport sector in a city with a significant population density such as Mexico City could have a substantial impact on reducing pollution and greenhouse gas emissions. By considering the extrapolation of the results obtained in New York to Mexico City, we seek to evaluate the potential environmental and economic benefit of the adoption of electric cars in a similar metropolis, which could serve as a reference for other cities with similar demographic and geographic characteristics in the region.
  	
 ##### Economic evaluation:
@@ -91,7 +91,8 @@ The demographic and cultural implications that would be caused by the implementa
 
 ####  Working strategy
 
-In the project, it has been determined that two meetings will be held daily as part of the team's working methodology. One of these meetings will take place in the morning, and the other in the afternoon. During the morning meeting, the team will be planning and discussing the current day's procedure. In addition, new tasks will be generated and contributed for inclusion in the plan, and the slide to be presented at the afternoon meeting will be defined. During this last meeting, a space will be established to raise doubts and share the progress achieved. The Scrum Master has been appointed to lead this meeting and, in his role, will ask brief questions to the team members. They will inquire about the previous day's activities, the current day's plans, and whether any particular issues or challenges are arising. In addition, the slides created in the morning meeting will be presented at this meeting, and feedback will be received from the Scrum Master in order to provide guidance more in line with stakeholder requirements. In order to monitor the progress of the team in relation to the tasks performed, milestones will be set on Fridays of each of the four weeks of the project. For the monitoring and marking of the objectives, a Gantt Chart has been made available to the team.
+In the project, it has been determined that two meetings will be held daily as part of the team's working methodology. One of these meetings will take place in the morning, and the other in the afternoon. During the morning meeting, the team will be planning and discussing the current day's procedure. In addition, new tasks will be generated and contributed for inclusion in the plan, and the slide to be presented at the afternoon meeting will be defined. During this last meeting, a space will be established to raise doubts and share the progress achieved. <br>
+The Scrum Master has been appointed to lead this meeting and, in his role, will ask brief questions to the team members. They will inquire about the previous day's activities, the current day's plans, and whether any particular issues or challenges are arising. In addition, the slides created in the morning meeting will be presented at this meeting, and feedback will be received from the Scrum Master in order to provide guidance more in line with stakeholder requirements. In order to monitor the progress of the team in relation to the tasks performed, milestones will be set on Fridays of each of the four weeks of the project. For the monitoring and marking of the objectives, a Gantt Chart has been made available to the team.
 
 #### Data collection
 
@@ -231,17 +232,17 @@ borough
 * Weldon, P, Morrissey, P and O'Mahony, M. (2017) Long-term cost of ownership comparative analysis between electric vehicles and internal combustion engine vehicles. Sustainable Cities and Society
 ## Annexes
 #### Abbreviations
-AEV: All-electric vehicles
-BEV: battery electric vehicles 	
-CO2: Carbon Dioxide
-EDA: Exploratory Data Analysis	
-EV: electric vehicles 	
-HEV: Hybrid electric vehicles
-ICEV: internal combustion vehicles 	
-IEA: International Energy Agency 	
-KPIs: Key Performance Indicators
-ML: Machine Learning
-NYC TLC: New York City Taxi & Limousine Commission
-SQL: Structured Query Language, a programming language
-USA: United States
+AEV: All-electric vehicles<br>
+BEV: battery electric vehicles 	<br>
+CO2: Carbon Dioxide<br>
+EDA: Exploratory Data Analysis	<br>
+EV: electric vehicles 	<br>
+HEV: Hybrid electric vehicles<br>
+ICEV: internal combustion vehicles 	<br>
+IEA: International Energy Agency 	<br>
+KPIs: Key Performance Indicators<br>
+ML: Machine Learning<br>
+NYC TLC: New York City Taxi & Limousine Commission<br>
+SQL: Structured Query Language, a programming language<br>
+USA: United States<br>
 TCO: Total Cost of Ownership
