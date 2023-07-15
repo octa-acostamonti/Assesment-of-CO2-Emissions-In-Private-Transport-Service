@@ -1,6 +1,6 @@
 Aqui va la documentacion
 
-***TLC Trip Record Dataset
+###TLC Trip Record Dataset
 |Columna|Explicacion|
 |-----------------------|-----------------------------------------------------------------------------------------------------------|
 | ID_trip               | ID del viaje                                                                                              |
@@ -21,14 +21,14 @@ Aqui va la documentacion
 | Congetstion_Surcharge | Monto adicional cobrado a los pasajeros dependiendo de la congestión del tráfico en el momento del viaje. |
 
 
-***Percentage_EV_Per_Year
+###Percentage_EV_Per_Year
 |Columna|Explicacion|
 |---------------|-------------------------------------------------------------------------|
 | ID_Percentage | ID del porcentaje de vehículos por año                                  |
 | Año           | Año del porcentaje estimados de vehículos en circulación a nivel global |
 | Percentage_EV | Porcentaje de vehículos eléctricos circulando a nivel global por año    |
 
-***EV
+###EV
 |Columna|Explicacion|
 |------------|------------------------------------------------------|
 | ID_Ev      | ID del vehículo eléctrico                            |
@@ -37,7 +37,7 @@ Aqui va la documentacion
 | Efficiency | La eficiencia del vehículo eléctrico medido en Wh/km |
 
 
-***ICEV
+###ICEV
 | Columna        | Explicacion                                   |
 |----------------|-----------------------------------------------|
 | ID_ICEV        | ID del vehiculo de combustion interna         |
@@ -45,40 +45,40 @@ Aqui va la documentacion
 | Model          | Modelo del vehiculo de combustion interna     |
 | Consumption/km | Consumo de gasolina por km                    |
 
-***Fuel_Cost
+###Fuel_Cost
 | Columna     | Explicacion                                                             |
 |-------------|-------------------------------------------------------------------------|
 | ID_Fuel     | ID del combustible                                                      |
 | ID_Calendar | ID del calendario                                                       |
 | Cost        | Costo del combustible agrupado por semanas en dólares en Estados Unidos |
 
-***Electricity_Cost
+###Electricity_Cost
 | Columna       | Explicacion                                            |
 |---------------|--------------------------------------------------------|
 | ID_Electricty | ID de electricidad                                     |
 | ID_Calendar   | ID del calendario                                      |
 | Cost          | Costo de la electricidad por dólares en Estados Unidos |
 
-***Emission_Vehicle
+###Emission_Vehicle
 | Columna         | Explicacion                                         |
 |-----------------|-----------------------------------------------------|
 | ID_emission     | ID de la emisión del vehículo                       |
 | Type            | Tipo de vehículo: eléctrico o de combustión interna |
 | CO2 Emission/km | Emisión de CO2 del vehículo por KMs                 |
 
-***Calendar
+###Calendar
 | Columna     | Explicacion       |
 |-------------|-------------------|
 | ID_Calendar | ID del calendario |
 | AAAA/MM     | Año y mes         |
 
-***Rate_Code
+###Rate_Code
 | Columna     | Explicacion             |
 |-------------|-------------------------|
 | ID_RateCode | ID de la tasa de tarifa |
 | Rate Code   | Tasa de la tarifa       |
 
-***Temperatura_NewYork
+###Temperatura_NewYork
 | Columna         | Explicacion                                                               |
 |-----------------|---------------------------------------------------------------------------|
 | ID_Temperature  | ID de la temperatura del dia                                              |
@@ -88,7 +88,7 @@ Aqui va la documentacion
 | min_temperature | Minimo de temperatura registrada en el dia de la ciudad de Nueva York     |
 | ID_Calendar     | ID del calendario                                                         |
 
-***Location
+###Location
 | Columna     | Explicacion                        |
 |-------------|------------------------------------|
 | ID_Location | ID del borough de Nueva York       |
