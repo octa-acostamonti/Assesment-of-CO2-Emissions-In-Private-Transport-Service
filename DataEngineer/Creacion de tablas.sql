@@ -1,3 +1,6 @@
+-- En este archivo se creará las tablas correspondientes a nuestro
+-- proyecto, son 9 tablas.
+
 use taxis;
 
 create table if not exists TLC_Trip_Record(
@@ -66,4 +69,18 @@ create table if not exists Emission_Vehicle(
     primary key (ID_EmissionVehicle)
 )engine=InnoDB default charset=utf8mb4 collate=utf8mb4_spanish_ci;
 
+create table if not exists Calendar(
+	ID_Calendar    int,
+    MesxAño        varchar(7),
+    primary key (ID_Calendar)
+)engine=InnoDB default charset=utf8mb4 collate=utf8mb4_spanish_ci;
+
+create table if not exists Mean_Consumption(
+	ID_mean_cons    int not null,
+    mean_cons       int,
+    type_emission   int,
+    primary key (ID_mean_cons)
+)engine=InnoDB default charset=utf8mb4 collate=utf8mb4_spanish_ci;
+
+-- Una vez creadas las tablas se procede a hacer consultas para verificar que todo esté en orden.
 show tables;
