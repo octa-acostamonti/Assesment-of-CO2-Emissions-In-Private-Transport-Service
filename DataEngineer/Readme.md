@@ -7,7 +7,7 @@ This documentation aims to present and explain the Data Engineering process carr
 ## I. Compilation of requirements:
 Starting from a preliminary meeting, the project requirements were defined and documented in collaboration with the product owner (PO). Business objectives were determined, and the team defined the required data sources, required data types, technology stack, and any special considerations, and the tasks and duration of the tasks were planned.
 
-The entire process I was timely documented, the project proposal was presented again with the PO during the first sprint, and it was approved.<br>
+The entire process was timely documented, the project proposal was presented again with the PO during the first sprint, and it was approved.<br>
 
 ## II. Exploratory analysis:
 Positive results were obtained after an exhaustive quality analysis carried out on the datasets to be used. The objective of the analysis was to evaluate the completeness, consistency, precision and other key aspects of the data, in order to identify possible problems and propose solutions to improve their quality. The analysis revealed sufficient quality and reliability to advance to the next stage.<br>
