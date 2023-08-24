@@ -7,7 +7,7 @@ Generation of the Mexico City map with the most popular predicted points in the 
 
 ### Dataset
 
-The dataset for the construction of the tree was taken from a reference work carried out by Straka (2020) where information from the Geographic Information System (GIS) was used to generate a prediction model of the popularity associated with the location. of charging stations in the city of Holland in the Netherlands. The details of the algorithm and optimized hyperparameters were not described in the scientific work, however, they were evaluated in the construction of the model for the current project.
+The dataset for the construction of the tree was taken from a reference work carried out by Straka (2020) where information from the Geographic Information System (GIS) was used to generate a prediction model of the popularity associated with the location of charging stations in the city of Holland in the Netherlands. The details of the algorithm and optimized hyperparameters were not described in the scientific work, however, they were evaluated in the construction of the model for the current project.
 
 ### Characteristics of the gradient-powered tree
 
