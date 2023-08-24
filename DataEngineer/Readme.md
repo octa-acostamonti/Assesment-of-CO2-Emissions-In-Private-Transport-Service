@@ -27,7 +27,7 @@ In these stages, Python was used as the language in conjunction with the Pandas 
 ##  VI. Integration:
 Creation of the relational model: From the extracted data, the conceptual design of the same was carried out. Tools such as entity-relationship diagrams (DER) were used to represent the entities, relationships and attributes. The primary and foreign keys were established, as well as the referential integrity constraints. It was determined to execute the normalization of the data in the cases that were required, to eliminate redundancies and guarantee the integrity of the data. Normal forms (1NF, 2NF, 3NF, etc.) are used to decompose tables into smaller, more defined entities.<br>
  
-Then we proceeded to create the logical design of the relational model. The tables and their columns were defined, the data types were assigned, and the relationships and restrictions were established. The tables of the databases defined for the specific purposes of the analysis were created in Workbench in connection with a Mysql server in the cloud. For this instance, the team opted for solutions provided by Azure.<br>
+Then we proceeded to create the logical design of the relational model. The tables and their columns were defined, the data types were assigned, and the relationships and restrictions were established. The tables of the databases defined for the specific purposes of the analysis were created in MySQL Workbench in connection with a Azure MySQL Server on the cloud.<br>
 
 # ETL Summary 
 [![ETL-summary.jpg](https://i.postimg.cc/SK0gqFHm/ETL-summary.jpg)](https://postimg.cc/LJTtB7HW)
