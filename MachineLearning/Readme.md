@@ -25,7 +25,7 @@ The training and test samples were 80% and 20% of the data, following convention
 
 The points were chosen based on the results of figure 1. For the construction of the map, an open-source mapping system, Open Street Map, was used because it contains information with great detail about the hotels, wholesale businesses, swimming pools, parking, etc. The construction of Mexico City was carried out by verifying the relevant features and their location by means of an analysis of the Open Street Map.
 
-A table with the information of latitude and longitude of the chosen points with some features such as load capacity) and  PowerBi was used to make an interactive map with the points. On the map, the points can be seen according to the load capacity. (Fig 2.)
+A table with the information of latitude and longitude of the chosen points with some features such as load capacity. PowerBi was used to make an interactive map with the points. On the map, the points can be seen according to the load capacity. (Fig 2.)
 
 [![caracteri-sticas-mas-populares.png](https://i.postimg.cc/8CfMvSrQ/caracteri-sticas-mas-populares.png)](https://postimg.cc/mcRPxKw8)
 Fig 1. Most relevant features for the location of charging points in Holland. 
